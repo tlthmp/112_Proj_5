@@ -1,0 +1,60 @@
+Alpha Beta
+AB
+[Michelle Boal, Madison MS, 2.95, Melissa	Janke, Memphis TN, 2.8, Puala Dill, Vicksburg MS, 2.75, Laura Cassady, LaGrange GA, 2.7, Linda Collins, Senatobia MS, 2.65, Carol Smith, Biloxi MS, 2.5, Kimberly Chavez, Oxford MS, 2.5, Eva	Bridge, Chattanooga TN, 2.49, Diane Lang, Irving TX, 2.45, Kathleen Richards, Guntown MS, 2.45, Katie Jacobson, Arlington TX, 2.4, Tamara Wright, Newton MS, 2.35, Susan Gonzalez, Memphis TN, 2.33, Beth Clayburn, Hendersonville NC, 2.3, Yvonne Button, Shreveport LA, 2.28]
+Total Number of Students in this Sorority: 15
+
+Beta Epsilon Eta
+BEH
+[Donna Perez, Gainesville FL, 2.05, Helen Baker, Baton Rouge LA, 2.5, Jacqueline Kilmer, Hazlehurst MS, 2.75, Amber Jacobs, Clarksdale MS, 2.28, Pam Pendleton, Baldwyn MS, 2.65, Sarah Michaels, LaGrange GA, 2.22, Michelle Fudge, Vicksburg MS, 2.19, Bethany Schoemaker, Merietta GA, 2.45, Violet Rotten, Metaire LA, 2.33, Amber Russo, Greenville SC, 2.25, Jessie Nicolls, Biloxi MS, 2.2, Cheryl Green, Greenville SC, 2.1, Michelle Stegall, Monroe LA, 2.0]
+Total Number of Students in this Sorority: 13
+
+Zeta Alpha Mu
+ZAM
+[Elizabeth Welton, McGehee AR, 2.87, Ruby Capwell, Middleton TN, 3.4, Brittany Linn, Kosciusko MS, 3.83, Jessie Hersh, Merietta GA, 3.6, Terri Smith, Alpharetta GA, 3.95, Kristen Gavin, Huntsville AL, 3.5, Bethany Qwen, Saltillo MS, 2.88, Stephanie Hillman, Bartlett TN, 3.15, Teresa Pendleton, Fulton MS, 2.9, Rita Coldbeck, Pasadena CA, 2.95, Teri Mayor, Baton Rouge LA, 3.8, Vivian Trumbo, Holly Springs MS, 3.3, Jamie Shiver, Tupelo MS, 3.1, Michelle Aycook, Carthage MS, 3.25, Rosemary Cowart, Baton Rouge LA, 3.8, Clara Nutt, Carlisle AR, 3.2, Mary Rigney, Arlington TX, 2.95, Ruby Edkins, Destin FL, 3.9]
+Total Number of Students in this Sorority: 18
+
+Zeta Nu
+ZN
+[Jennifer Jones, Greenville MS, 3.92, Roberta Sokol, Tupelo MS, 3.66, Mary Finerty, Florence AL, 3.78, Amanda Flanders, Walnut Grove MS, 3.88, Vicki Ozwalt, Memphis TN, 3.9, Amber Longston, Canton MS, 3.99, Carolyn Deer, Oxford MS, 4.0]
+Total Number of Students in this Sorority: 7
+
+Iota Eta Upsilon
+IHY
+[Patricia Abbot, Batesville MS, 3.15, Heather Newcomb, Vicksburg MS, 3.8, Thersa Cleveland, Biloxi MS, 2.95, Robin Frame, Whiteville TN, 3.95, Mary Elizabeth Trump, Tyler TX, 3.83, Carrie Keener, Bartlett TN, 3.4, Lucy Johnson, Newman GA, 3.5, Beatrice Denton, Houston MS, 3.6, Sarah Newberry, Batesville MS, 2.95, Carolyn Olive, Paris MS, 3.8, Monica Sneed, Memphis TN, 3.3, Kathlyn Williams, Gulport MS, 3.1, Suzanne Michael, Merietta GA, 3.25, Charlotte Fort, Newton MS, 3.2, Tina Fonda, Memphis TN, 3.9]
+Total Number of Students in this Sorority: 15
+
+Iota Kappa Mu
+IKM
+[Elizabeth Harris, Madison MS, 3.1, Jennifer Paden, Bruce MS, 3.3, Jessica Egner, Walnut Grove MS, 2.87, Sharon Kerr, Slidell LA, 2.8, Cheryl Downs, Canton MS, 2.69, Smantha Kell, Irving TX, 2.88, Susanne Symons, Santa Barbara CA, 3.6, Lisa Hadfield, Forest MS, 3.15, Kimberly Clark, Corinth MS, 2.8, Alice Cooper, Red Bay AL, 2.9, Laura Dunphy, Madison MS, 2.95, Sheila Rick, Carlisle AR, 3.5, Jessica Bryant, Chattanooga TN, 2.95, Mary Carver, Picayune MS, 2.95, Nancy Vanzant, Tyler TX, 3.4, Elizabeth Redman, Forest MS, 2.7, Tonya Sheard, Olive Branch MS, 2.8, Brittany Kurz, Cookeville TN, 2.83, Juanita	Sloop, Vicksburg MS, 3.25, Lisa Deeds, Germantown TN, 3.2]
+Total Number of Students in this Sorority: 20
+
+Mu Alpha Eta
+MAH
+[Mary Moore, Huntsville AL, 3.99, Mary Jane Smith, Coffeeville MS, 4.0, Charlotte Garza, Germantown TN, 3.86, Danielle Lantz, Water Valley MS, 3.56, Virginia James, Germantown TN, 3.8, Cynthia Turngate, LaGrange GA, 3.45, Amanda Lombard, Alexandria LA, 3.75, Melissa	Ashby, Tuscaloosa AL, 3.79]
+Total Number of Students in this Sorority: 8
+
+Omicron Eta
+OH
+[Sarah Lopez, Dallas TX, 2.0, Mary Elizabeth Johnson, Clarksdale MS, 2.2, Melissa	Long, Vero Beach FL, 2.1, Laura Martin, Little Rock AR, 2.45, Kimberly McKinnon, Pope MS, 2.25, Deborah	Isaacs, Lewisburg MS, 2.05, Melissa	Johnson, Independence MS, 2.5, Valeria Knight, Fort Worth TX, 2.33, Monica Hooks, Pascagoula MS, 2.22, Nancy Youngblood, Metaire LA, 2.75]
+Total Number of Students in this Sorority: 10
+
+Rho Epsilon Kappa
+PEK
+[Carol Turner, Sarasota FL, 3.1, Maria Hernandez, Hernando MS, 2.95, Nancy Wade, Little Rock AR, 3.0, Carolyn Love, Metaire LA, 2.69, Monica Inman, Pascagoula MS, 2.88, Bethany Denny, Biloxi MS, 2.75, Cathy Ayers, Madison MS, 2.75, Rhonda McMillan, Pascagoula MS, 2.6, Elizabeth Heard, Amory MS, 2.5, Deborah	Truitt, Tupelo MS, 2.95, Victoria Willcox, Amory MS, 2.65, Esther Young, Ripley MS, 2.8, Sarah Lentz, Vero Beach FL, 2.7, Tara Quinlan, Destin FL, 2.87, Kim Graves, Hernando MS, 2.83, Danielle Medina, Mobile AL, 2.8, Carol Yates, Carthage MS, 2.8, Yolanda	Elton, Horn Lake MS, 2.75, Amy Ivy, Germantown TN, 3.0, Amanda Longwell, Tyler TX, 3.2]
+Total Number of Students in this Sorority: 20
+
+Tua Omicron Rho
+TOP
+[Linda Brookman, Senatobia MS, 2.87, Margaret Paddington, Okolona MS, 3.8, Laura Taft, Kosciusko MS, 3.8, Amanda Oden, Gulport MS, 2.7, Tina Enright, Mobile AL, 2.95, Nancy Upton, Oxford MS, 2.69, Carol Vail, Destin FL, 2.88, Cynthia Mullin, Gulport MS, 2.6, Thersa Ridgeland, Oxford MS, 3.15, Brenda Johnston, Mobile AL, 3.5, Katie Sheppard, Charlotte NC, 3.95, Pamela Reyes, Corinth MS, 2.95, Robin Zellar, Kosciusko MS, 3.4, Valerie Upton, Ashland MS, 2.8, Virginia Redman, Pasadena CA, 3.3, Charlotte Hoffman, Monroe LA, 2.83, Stacey Peavy, Cleveland TN, 2.9, Cathy Kilroy, Bartlett TN, 3.1, Laura Fitzpatrick, Tupelo MS, 3.25, Robin Goodspeed, Bartlett TN, 3.2, Thersa Cronk, Tupelo MS, 3.9]
+Total Number of Students in this Sorority: 21
+
+Upsilon Nu Omicron Tua
+YNOT
+[Patricia Carter, Tunica MS, 2.35, Karen Adams, Tupelo MS, 2.22, Carol Uber, Crystal Springs MS, 2.45, Melissa	Appel, Picayune MS, 2.33, Lisa Toney, Tuscaloosa AL, 2.25, Elizabeth Mason, Florence AL, 2.2, Stacey Kingman, Vicksburg MS, 2.3, Jess Langdon, Tuscaloosa AL, 2.45, Stephanie Tide, Aberdeen MS, 2.5, Carolyn Tracey, Walnut MS, 2.75, Charlene Overton, Senatobia MS, 2.28, Janet Parent, Florence AL, 2.49, Rhonda Borden, Oxford MS, 2.65, Hazle Joyce, Senatobia MS, 2.5, Tiffany Rodgers, Oxford MS, 2.7]
+Total Number of Students in this Sorority: 15
+
+Chi Tua
+XT
+[Nancy Scott, Mobile AL, 2.5, Barbara Howland, Webb MS, 2.75, Amy Shoop, Jasper AL, 2.4, Rhonda Horford, Carlisle AR, 2.45, Vicki Israel, Chattanooga TN, 2.8, Deborah Otto, Charlotte NC, 2.83, Monique Seabolt, Hazlehurst MS, 2.5, Amy Mock, Carthage MS, 2.6, Christina Upson, Hernando MS, 2.95, Shannon Attwood, Tyler TX, 2.75, Lindsey Voos, Arlington TX, 2.28, Robin Sing, Alpharetta GA, 2.49, Stacey Lodge, Slidell LA, 2.65, Brittany Felder, Irving TX, 2.55, Katie Haydon, Southaven MS, 2.7, Joanna Hunt, Newman GA, 2.87, Janet Duval, Vero Beach FL, 3.0]
+Total Number of Students in this Sorority: 17
+

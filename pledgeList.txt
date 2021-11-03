@@ -1,0 +1,179 @@
+Sarah Lopez,Dallas TX,2.00,OH
+Donna Perez,Gainesville FL,2.05,BEH
+Mary Moore,Huntsville AL,3.99,MAH
+Patricia Carter,Tunica MS,2.35,YNOT
+Linda Collins,Senatobia MS,2.65,AB
+Elizabeth Harris,Madison MS,3.10,IKM
+Jennifer Jones,Greenville MS,3.92,ZN
+Carol Turner,Sarasota FL,3.10,PEK
+Nancy Scott,Mobile AL,2.50,XT
+Karen Adams,Tupelo MS,2.22,YNOT
+Helen Baker,Baton Rouge LA,2.50,BEH
+Susan Gonzalez,Memphis TN,2.33,AB
+Mary Elizabeth Johnson,Clarksdale MS,2.20,OH
+Patricia Abbot,Batesville MS,3.15,IHY
+Linda Brookman,Senatobia MS,2.87,TOP
+Maria Hernandez,Hernando MS,2.95,PEK
+Barbara Howland,Webb MS,2.75,XT
+Margaret Paddington,Okolona MS,3.80,TOP
+Jennifer Paden,Bruce MS,3.30,IKM
+Mary Jane Smith,Coffeeville MS,4.00,MAH
+Elizabeth Welton,McGehee AR,2.87,ZAM
+Nancy Wade,Little Rock AR,3.00,PEK
+Carol Uber,Crystal Springs MS,2.45,YNOT
+Jacqueline Kilmer,Hazlehurst MS,2.75,BEH
+Heather Newcomb,Vicksburg MS,3.80,IHY
+Jessica Egner,Walnut Grove MS,2.87,IKM
+Laura Taft,Kosciusko MS,3.80,TOP
+Sharon Kerr,Slidell LA,2.80,IKM
+Melissa	Appel,Picayune MS,2.33,YNOT
+Michelle Boal,Madison MS,2.95,AB
+Amanda Oden,Gulport MS,2.70,TOP
+Lisa Toney,Tuscaloosa AL,2.25,YNOT
+Amy Shoop,Jasper AL,2.40,XT
+Carolyn Love,Metaire LA,2.69,PEK
+Cheryl Downs,Canton MS,2.69,IKM
+Thersa Cleveland,Biloxi MS,2.95,IHY
+Elizabeth Mason,Florence AL,2.20,YNOT
+Ruby Capwell,Middleton TN,3.40,ZAM
+Tina Enright,Mobile AL,2.95,TOP
+Robin Frame,Whiteville TN,3.95,IHY
+Charlotte Garza,Germantown TN,3.86,MAH
+Rhonda Horford,Carlisle AR,2.45,XT
+Mary Elizabeth Trump,Tyler TX,3.83,IHY
+Monica Inman,Pascagoula MS,2.88,PEK
+Amber Jacobs,Clarksdale MS,2.28,BEH
+Carrie Keener,Bartlett TN,3.40,IHY
+Smantha Kell,Irving TX,2.88,IKM
+Melissa	Long,Vero Beach FL,2.10,OH
+Nancy Upton,Oxford MS,2.69,TOP
+Roberta Sokol,Tupelo MS,3.66,ZN
+Brittany Linn,Kosciusko MS,3.83,ZAM
+Bethany Denny,Biloxi MS,2.75,PEK
+Katie Jacobson,Arlington TX,2.40,AB
+Stacey Kingman,Vicksburg MS,2.30,YNOT
+Jessie Hersh,Merietta GA,3.60,ZAM
+Lucy Johnson,Newman GA,3.50,IHY
+Vicki Israel,Chattanooga TN,2.80,XT
+Laura Martin,Little Rock AR,2.45,OH
+Carol Vail,Destin FL,2.88,TOP
+Terri Smith,Alpharetta GA,3.95,ZAM
+Beth Clayburn,Hendersonville NC,2.30,AB
+Susanne Symons,Santa Barbara CA,3.60,IKM
+Kristen Gavin,Huntsville AL,3.50,ZAM
+Beatrice Denton,Houston MS,3.60,IHY
+Cathy Ayers,Madison MS,2.75,PEK
+Danielle Lantz,Water Valley MS,3.56,MAH
+Kimberly McKinnon,Pope MS,2.25,OH
+Deborah Otto,Charlotte NC,2.83,XT
+Sarah Newberry,Batesville MS,2.95,IHY
+Cynthia Mullin,Gulport MS,2.60,TOP
+Jess Langdon,Tuscaloosa AL,2.45,YNOT
+Lisa Hadfield,Forest MS,3.15,IKM
+Carolyn Olive,Paris MS,3.80,IHY
+Bethany Qwen,Saltillo MS,2.88,ZAM
+Pam Pendleton,Baldwyn MS,2.65,BEH
+Kathleen Richards,Guntown MS,2.45,AB
+Monique Seabolt,Hazlehurst MS,2.50,XT
+Rhonda McMillan,Pascagoula MS,2.60,PEK
+Mary Finerty,Florence AL,3.78,ZN
+Thersa Ridgeland,Oxford MS,3.15,TOP
+Monica Sneed,Memphis TN,3.30,IHY
+Kimberly Clark,Corinth MS,2.80,IKM
+Sarah Michaels,LaGrange GA,2.22,BEH
+Brenda Johnston,Mobile AL,3.50,TOP
+Stephanie Hillman,Bartlett TN,3.15,ZAM
+Diane Lang,Irving TX,2.45,AB
+Alice Cooper,Red Bay AL,2.90,IKM
+Teresa Pendleton,Fulton MS,2.90,ZAM
+Elizabeth Heard,Amory MS,2.50,PEK
+Michelle Fudge,Vicksburg MS,2.19,BEH
+Amy Mock,Carthage MS,2.60,XT
+Katie Sheppard,Charlotte NC,3.95,TOP
+Deborah	Truitt,Tupelo MS,2.95,PEK
+Virginia James,Germantown TN,3.80,MAH
+Christina Upson,Hernando MS,2.95,XT
+Rita Coldbeck,Pasadena CA,2.95,ZAM
+Victoria Willcox,Amory MS,2.65,PEK
+Stephanie Tide,Aberdeen MS,2.50,YNOT
+Pamela Reyes,Corinth MS,2.95,TOP
+Laura Dunphy,Madison MS,2.95,IKM
+Amanda Flanders,Walnut Grove MS,3.88,ZN
+Robin Zellar,Kosciusko MS,3.40,TOP
+Teri Mayor,Baton Rouge LA,3.80,ZAM
+Kathlyn Williams,Gulport MS,3.10,IHY
+Sheila Rick,Carlisle AR,3.50,IKM
+Shannon Attwood,Tyler TX,2.75,XT
+Bethany Schoemaker,Merietta GA,2.45,BEH
+Melissa	Janke,Memphis TN,2.80,AB
+Carolyn Tracey,Walnut MS,2.75,YNOT
+Esther Young,Ripley MS,2.80,PEK
+Valerie Upton,Ashland MS,2.80,TOP
+Vivian Trumbo,Holly Springs MS,3.30,ZAM
+Jessica Bryant,Chattanooga TN,2.95,IKM
+Sarah Lentz,Vero Beach FL,2.70,PEK
+Charlene Overton,Senatobia MS,2.28,YNOT
+Tamara Wright,Newton MS,2.35,AB
+Violet Rotten,Metaire LA,2.33,BEH
+Lindsey Voos,Arlington TX,2.28,XT
+Virginia Redman,Pasadena CA,3.30,TOP
+Cynthia Turngate,LaGrange GA,3.45,MAH
+Kimberly Chavez,Oxford MS,2.50,AB
+Charlotte Hoffman,Monroe LA,2.83,TOP
+Mary Carver,Picayune MS,2.95,IKM
+Janet Parent,Florence AL,2.49,YNOT
+Robin Sing,Alpharetta GA,2.49,XT
+Amber Russo,Greenville SC,2.25,BEH
+Stacey Peavy,Cleveland TN,2.90,TOP
+Tara Quinlan,Destin FL,2.87,PEK
+Vicki Ozwalt,Memphis TN,3.90,ZN
+Nancy Vanzant,Tyler TX,3.40,IKM
+Rhonda Borden,Oxford MS,2.65,YNOT
+Jamie Shiver,Tupelo MS,3.10,ZAM
+Puala Dill,Vicksburg MS,2.75,AB
+Kim Graves,Hernando MS,2.83,PEK
+Deborah	Isaacs,Lewisburg MS,2.05,OH
+Cathy Kilroy,Bartlett TN,3.10,TOP
+Danielle Medina,Mobile AL,2.80,PEK
+Jessie Nicolls,Biloxi MS,2.20,BEH
+Stacey Lodge,Slidell LA,2.65,XT
+Elizabeth Redman,Forest MS,2.70,IKM
+Carol Yates,Carthage MS,2.80,PEK
+Michelle Aycook,Carthage MS,3.25,ZAM
+Amanda Lombard,Alexandria LA,3.75,MAH
+Brittany Felder,Irving TX,2.55,XT
+Laura Fitzpatrick,Tupelo MS,3.25,TOP
+Tonya Sheard,Olive Branch MS,2.80,IKM
+Rosemary Cowart,Baton Rouge LA,3.80,ZAM
+Yolanda	Elton,Horn Lake MS,2.75,PEK
+Katie Haydon,Southaven MS,2.70,XT
+Melissa	Johnson,Independence MS,2.50,OH
+Yvonne Button,Shreveport LA,2.28,AB
+Brittany Kurz,Cookeville TN,2.83,IKM
+Amber Longston,Canton MS,3.99,ZN
+Clara Nutt,Carlisle AR,3.20,ZAM
+Suzanne Michael,Merietta GA,3.25,IHY
+Valeria Knight,Fort Worth TX,2.33,OH
+Hazle Joyce,Senatobia MS,2.50,YNOT
+Amy Ivy,Germantown TN,3.00,PEK
+Mary Rigney,Arlington TX,2.95,ZAM
+Cheryl Green,Greenville SC,2.10,BEH
+Joanna Hunt,Newman GA,2.87,XT
+Eva	Bridge,Chattanooga TN,2.49,AB
+Juanita	Sloop,Vicksburg MS,3.25,IKM
+Charlotte Fort,Newton MS,3.20,IHY
+Monica Hooks,Pascagoula MS,2.22,OH
+Robin Goodspeed,Bartlett TN,3.20,TOP
+Tina Fonda,Memphis TN,3.90,IHY
+Laura Cassady,LaGrange GA,2.70,AB
+Ruby Edkins,Destin FL,3.90,ZAM
+Thersa Cronk,Tupelo MS,3.90,TOP
+Carolyn Deer,Oxford MS,4.00,ZN
+Janet Duval,Vero Beach FL,3.00,XT
+Amanda Longwell,Tyler TX,3.20,PEK
+Michelle Stegall,Monroe LA,2.00,BEH
+Lisa Deeds,Germantown TN,3.20,IKM
+Melissa	Ashby,Tuscaloosa AL,3.79,MAH
+Carol Smith,Biloxi MS,2.50,AB
+Nancy Youngblood,Metaire LA,2.75,OH
+Tiffany Rodgers,Oxford MS,2.70,YNOT
